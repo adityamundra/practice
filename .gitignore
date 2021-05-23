@@ -1,0 +1,15 @@
+.DS_Store
+java/java.iml
+java/.classpath
+java/.project
+java/.settings
+java/.vscode
+java/target
+.idea
+.git
+
+algorithms/.classpath
+algorithms/.project
+algorithms/.settings
+algorithms/.vscode
+algorithms/target
